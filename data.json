@@ -1,6 +1,6 @@
 [
-  { "name": "Item 1", "category": "option1", "type": "option1" },
-  { "name": "Item 2", "category": "option2", "type": "option1" },
-  { "name": "Item 3", "category": "option1", "type": "option2" },
-  { "name": "Item 4", "category": "option2", "type": "option2" }
+  { "name": "Item 1", "category": "option1", "type": "option1", "review": "Het eten is lekker" },
+  { "name": "Item 2", "category": "option2", "type": "option1", "review": "Prachtige ambiance" },
+  { "name": "Item 3", "category": "option1", "type": "option2", "review": "Uitstekende service" },
+  { "name": "Item 4", "category": "option2", "type": "option2", "review": "De koffie was voortreffelijk" }
 ]

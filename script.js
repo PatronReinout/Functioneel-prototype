@@ -12,5 +12,7 @@ function filterData() {
 
   const filteredData = jsonData.filter(item => item.category === dropdown1Value && item.type === dropdown2Value);
 
-  document.getElementById('result').innerHTML = JSON.stringify(filteredData, null, 2);
+  // Toon alleen de reviews in plaats van het gehele object
+  const reviews = filteredData.map(item => item.review).join("<br>");
+  document.getElementById('result').innerHTML = reviews;
 }

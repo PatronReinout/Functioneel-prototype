@@ -453,15 +453,8 @@
 
 .macbook-pro .group-3 {
     position: absolute;
-    width: 104px;
-    height: 35px;
     top: 382px;
     left: 52px;
-    background-color: #f3f1f3;
-    border-radius: 10px;
-    border: 0.7px solid;
-    border-color: #bebebe;
-    box-shadow: var(--schaduw);
 }
 
 .macbook-pro .text-wrapper-20 {
@@ -519,6 +512,15 @@
 }
 #dropdown2 {
     width: 150px;
+    padding-left: 5px;
+    height: 35px;
+    background-color: #f3f1f3;
+    border-radius: 10px;
+    border: 0.7px solid #bebebe;
+    box-shadow: var(--schaduw);
+}
+#dropdown3 {
+    width: 100px;
     padding-left: 5px;
     height: 35px;
     background-color: #f3f1f3;
