@@ -15,4 +15,4 @@ Je kunt het dashboard bekijken op https://semester8.reinoutboldewijn.nl/Function
 Volg deze stappen om het project op te zetten:
 
 Clone de repository naar je lokale machine.
-`git clone https://git.fhict.nl/I396596/vue-project.git`
+`gh repo clone PatronReinout/Functioneel-prototype`
