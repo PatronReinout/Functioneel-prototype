@@ -64,11 +64,7 @@
 								class="carbon-user-avatar-2"
 								src="https://c.animaapp.com/sN3tQdDk/img/carbon-user-avatar-filled-2.svg"
 							/>
-							<p class="p">
-								Lorem ipsum dolor sit amet. 33 laboriosam deleniti eum sunt
-								nihil sit Ut debitis ratione aut corporis voluptas vel commodi
-								nihil est quas
-							</p>
+							<p class="p"><div id="result"></div></p>
 							<p class="text-wrapper-10">
 								Lorem ipsum dolor sit amet. 33 laboriosam deleniti eum sunt
 								nihil sit Ut debitis ratione aut corporis voluptas vel commodi
@@ -121,21 +117,27 @@
 						/>
 					</div>
 					<div class="overlap-wrapper">
-						<div class="overlap-group-2">
-							<div class="text-wrapper-20">Entrance</div>
-							<img
-								class="fluent-chevron-up-2"
-								src="https://c.animaapp.com/sN3tQdDk/img/fluent-chevron-up-24-regular-12.svg"
-							/>
-						</div>
+						<select id="dropdown2">
+							<option value="option1">Entrance</option>
+							<option value="option2">Heritage</option>
+							<option value="option1">The Brew Room</option>
+							<option value="option2">Brew Your Ride</option>
+							<option value="option1">Bottle Your Own</option>
+							<option value="option2">Sponsorships</option>
+							<option value="option2">The Best ‘Dam Bar</option>
+						</select>
 					</div>
 					<div class="group-4">
 						<select id="dropdown1">
-							<option value="option1">Option 1</option>
-							<option value="option2">Option 2</option>
+							<option value="option1">18-29</option>
+							<option value="option2">30-39</option>
+							<option value="option1">40-49</option>
+							<option value="option2">50-59</option>
+							<option value="option1">60-69</option>
+							<option value="option2">70-80</option>
 						</select>
 					</div>
-					<div class="group-5">
+					<div class="group-5" onclick="filterData()">
 						<div class="text-wrapper-21">Zoek</div>
 						<img
 							class="ion-search-outline"
