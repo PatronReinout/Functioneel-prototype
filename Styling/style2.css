@@ -528,11 +528,12 @@
     border: 0.7px solid #bebebe;
     box-shadow: var(--schaduw);
 }
+
 #result {
 position: absolute;
     width: 216px;
     height: 71px;
-    top:2y8px;
+    top: 20px;
     left: 45px;
     font-family: "Inter", Helvetica;
     font-weight: 400;
@@ -541,6 +542,7 @@ position: absolute;
     letter-spacing: 0;
     line-height: 18px;
 }
+
 
 .macbook-pro .fluent-chevron-up-3 {
     left: 50px;
