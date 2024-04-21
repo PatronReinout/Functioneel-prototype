@@ -51,7 +51,7 @@
   { "name": "Item 52", "category": "option4", "type": "option3", "status": "option3", "review": "Gemiddeld, niets wat er echt uitspringt." },
   { "name": "Item 53", "category": "option5", "type": "option4", "status": "option1", "review": "Geweldige ervaring, zeker een herhaling waard!" },
   { "name": "Item 54", "category": "option6", "type": "option5", "status": "option2", "review": "Onder de maat, had veel meer verwacht." },
-  { "name": "Item 55", "category": "option1", "type": "option6", "status": "option3", "review": "Ok voor eenmalig bezoek, maar niet memorabel." },
+  { "name": "Item 55", "category": "option1", "type": "option6", "status": "option2", "review": "Ok voor eenmalig bezoek, maar niet memorabel." },
   { "name": "Item 56", "category": "option2", "type": "option7", "status": "option1", "review": "Innovatief en boeiend, zeer aanbevolen!" },
   { "name": "Item 57", "category": "option3", "type": "option1", "status": "option2", "review": "Teleurstellend, weinig toegevoegde waarde." },
   { "name": "Item 58", "category": "option4", "type": "option2", "status": "option3", "review": "Aanvaardbaar voor snelle bezoekers, niet diepgaand." },  
@@ -79,7 +79,7 @@
   { "name": "Item 82", "category": "option4", "type": "option5", "status": "option3", "review": "Redelijk, maar kan beter." },
   { "name": "Item 83", "category": "option5", "type": "option6", "status": "option1", "review": "Fantastische tentoonstelling, zeer aanbevolen!" },
   { "name": "Item 84", "category": "option6", "type": "option7", "status": "option2", "review": "Niet wat ik gehoopt had." },
-  { "name": "Item 85", "category": "option1", "type": "option1", "status": "option3", "review": "Aardig voor een snelle blik." },
+  { "name": "Item 85", "category": "option1", "type": "option1", "status": "option2", "review": "Aardig voor een snelle blik." },
   { "name": "Item 86", "category": "option3", "type": "option2", "status": "option1", "review": "Inspirerend en boeiend, zeker de moeite waard." },
   { "name": "Item 87", "category": "option2", "type": "option3", "status": "option2", "review": "Ontgoochelend en rommelig gepresenteerd." },
   { "name": "Item 88", "category": "option4", "type": "option4", "status": "option3", "review": "Voldoende, maar mist diepgang." },
@@ -89,6 +89,6 @@
   { "name": "Item 92", "category": "option2", "type": "option1", "status": "option1", "review": "Verbazingwekkend goed georganiseerd en informatief." },
   { "name": "Item 95", "category": "option5", "type": "option4", "status": "option1", "review": "Indrukwekkend! Een rijke en diepgaande ervaring." },
   { "name": "Item 96", "category": "option6", "type": "option5", "status": "option2", "review": "Niet wat verwacht, overweldigend en verwarrend." },
-  { "name": "Item 97", "category": "option1", "type": "option6", "status": "option3", "review": "Redelijk goed, maar niets speciaals." }
+  { "name": "Item 97", "category": "option2", "type": "option6", "status": "option3", "review": "Redelijk goed, maar niets speciaals." }
 
 ]

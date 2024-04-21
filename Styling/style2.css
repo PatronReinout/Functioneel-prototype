@@ -528,7 +528,24 @@
     border: 0.7px solid #bebebe;
     box-shadow: var(--schaduw);
 }
-
+#dropdown4 {
+    width: 150px;
+    padding-left: 5px;
+    height: 35px;
+    background-color: #f3f1f3;
+    border-radius: 10px;
+    border: 0.7px solid #bebebe;
+    box-shadow: var(--schaduw);
+}
+#dropdown5 {
+    width: 100px;
+    padding-left: 5px;
+    height: 35px;
+    background-color: #f3f1f3;
+    border-radius: 10px;
+    border: 0.7px solid #bebebe;
+    box-shadow: var(--schaduw);
+}
 #result {
 position: absolute;
     width: 216px;
@@ -895,28 +912,12 @@ position: absolute;
     
 }
 
-.macbook-pro .overlap-group-2 {
-    position: absolute;
-    width: 113px;
-    height: 35px;
-    background-color: #f3f1f3;
-    border-radius: 10px;
-    border: 0.7px solid;
-    border-color: #bebebe;
-    box-shadow: var(--schaduw);
-}
+
 
 .macbook-pro .group-6 {
     position: absolute;
-    width: 113px;
-    height: 35px;
     top: 106px;
     left: 209px;
-    background-color: #f3f1f3;
-    border-radius: 10px;
-    border: 0.7px solid;
-    border-color: #bebebe;
-    box-shadow: var(--schaduw);
 }
 
 .macbook-pro .text-wrapper-34 {
@@ -1257,6 +1258,10 @@ position: absolute;
     position: absolute;
     width: 116px;
     height: 35px;
+    background-color: #f3f1f3;
+        border-radius: 10px;
+        border: 0.7px solid;
+        border-color: #bebebe;
     box-shadow: var(--schaduw);
 }
 
